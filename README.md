@@ -1,2 +1,26 @@
 # pet
-ä½¿ç”¨å»ºç«™ç³»ç»ŸJoomlaæ­å»ºçš„å® ç‰©çˆ±å¥½è€…è®ºå›
+Ê¹ÓÃ½¨Õ¾ÏµÍ³[Joomla](https://www.joomla.org/)´î½¨µÄ³èÎï°®ºÃÕßÂÛÌ³¡£
+
+# ²¿Êð·½·¨Ò»
+* ´î½¨PHPÔËÐÐ»·¾³£¬°²×°MySQLÊý¾Ý¿â
+
+* ¿ËÂ¡±¾ÏîÄ¿µ½Web¸ùÄ¿Â¼
+
+* ÐÂ½¨`MySQL`Êý¾Ý¿â£¬µ¼ÈëÊý¾Ý¿âÎÄ¼þ`pet.sql`
+
+> ÍøÕ¾Ê×Ò³£ºlocalhost/pet
+> ºóÌ¨µØÖ·£ºlocalhost/pet/administrator
+> ÑÝÊ¾µØÖ·£º[ff120.github.io/pet](ff120.github.io/pet)
+> ²âÊÔÓÃ»§Ãû£ºadmin
+> ÃÜÂë£º123456
+  
+# ²¿Êð·½·¨¶þ
+ÉÏÊö²¿Êð·½·¨³öÏÖÎÊÌâ£¬ÎÞ·¨ÐÞ¸´£¬¿ÉÒÔÊ¹ÓÃÏÂÊö°ì·¨´Ó´ò°üºÃµÄÎÄ¼þ²¿Êð£¬Õû¸ö¹ý³Ì»áÌá¹©Web½çÃæÅäÖÃ±ØÒªµÄÐÅÏ¢¡£
+* ½«Ä¿Â¼ÏÂ`installation2`¸üÃûÎª`isntallation`,ÔÚä¯ÀÀÆ÷·ÃÎÊ`localhost/pet/installation`
+* ÕâÊ±»á³öÏÖÒ»¸öcheck½çÃæ¼ì²éËùÐèµÄ»·¾³ÊÇ·ñ¶¼Âú×ã£¬µ¥»÷ÓÒÉÏ½ÇµÄ`Next`
+* ÅäÖÃÊý¾Ý¿âÁ¬½ÓÐÅÏ¢£¬ÈçÏÂÍ¼
+  ![DB_restore](DB_restore.png)
+* µ¥»÷NextµÈ´ýµ¼ÈëÊý¾Ý¿â³É¹¦£¬µ¥»÷OK½øÈëÍøÕ¾ÐÅÏ¢ÅäÖÃ½çÃæ£¬ÅäÖÃºÃÍøÕ¾ÐÅÏ¢£¬½øÈëFinish
+* ½«¸Õ²ÅµÄ`installation`¸üÃûÎª`installlation2`
+* ·ÃÎÊÍøÕ¾
+

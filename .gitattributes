@@ -1,0 +1,2 @@
+site-localhost-20130517-121321.jpa filter=lfs diff=lfs merge=lfs -text
+**/*.jpa filter=lfs diff=lfs merge=lfs -text
